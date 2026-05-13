@@ -1,0 +1,10 @@
+langchain-community
+Wikipedia
+arxiv
+langchain_huggingface
+sentence_transformers
+langchain
+ipywidgets
+faiss-cpu
+langchain-groq
+langchainhub
