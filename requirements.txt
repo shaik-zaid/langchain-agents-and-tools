@@ -7,4 +7,7 @@ langchain
 ipywidgets
 faiss-cpu
 langchain-groq
-langchainhub
+duckduckgo-search
+streamlit
+ddgs
+smolagents[toolkit]
